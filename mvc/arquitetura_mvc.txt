@@ -1,0 +1,6 @@
+ARQUITETURA MVC- Modelo Visão Controle(uma arquitetura de Orientação Objeto)
+- VISÃO: o cliente pode ver/acessar(o que o usuário vê).
+- MODELO: regra de negócio
+
+CORDOVA(converte o código PHP para APK)
+> SQLite -> MySQL do celular
